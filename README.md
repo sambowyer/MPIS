@@ -1,4 +1,4 @@
-# MASSIVELY PARALLEL IMPORTANCE SAMPLING
+# Massively Parallel Importance Sampling
 Code for the paper "Using Autodiff to Estimate Posterior Moments, Marginals and Samples", published at UAI 2024 ([https://arxiv.org/abs/2310.17374](https://arxiv.org/abs/2310.17374)).
 
 ## Setup
